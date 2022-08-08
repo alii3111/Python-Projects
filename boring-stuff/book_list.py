@@ -1,4 +1,4 @@
-""" Yahya Muhumed 14/7/2022 this program summarizes cost of a list
+"""14/7/2022 this program summarizes cost of a list
 of books, giving each book a number. """
 
 from turtle import title

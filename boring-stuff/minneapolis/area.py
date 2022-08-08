@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 14/7/2022 This program has area.py file 
+14/7/2022 This program has area.py file 
 that calculate the area of a rectangle by taking user inputs i.e length, width
 
 """

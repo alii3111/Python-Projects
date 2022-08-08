@@ -1,4 +1,4 @@
-"""Yahya Muhumed 14/7/2022  This program calculates & displays
+"""14/7/2022  This program calculates & displays
 regular, overtime and gross pay - using a table format.
 Challenge - adapt it to fit regular and rush bus fares. """
 

@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 14/7/2022 This program has if-1.py file that checks whether the user input is 
+14/7/2022 This program has if-1.py file that checks whether the user input is 
 more, less or equal to one dollar
 """
 

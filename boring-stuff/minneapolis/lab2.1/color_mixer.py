@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 14/7/2022 This program has color_mixer.py file that mixes 
+14/7/2022 This program has color_mixer.py file that mixes 
 2 different colors and produce a result as another color i.e red and blue makes purple.
 
 """
