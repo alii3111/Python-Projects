@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 14/7/2022 This program has a gas_cal.py file that takes 
+14/7/2022 This program has a gas_cal.py file that takes 
 asks users to input the number of miles they drove, the number of gallons
 they used and the price of each gallon and do some calculations based on that
 and give them output

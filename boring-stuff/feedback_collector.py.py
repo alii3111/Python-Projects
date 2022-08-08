@@ -1,5 +1,5 @@
 """
-Yahya Muhumed. 14/7/2022. this program validates
+14/7/2022. this program validates
 user inputs by using string methods.
 
 """

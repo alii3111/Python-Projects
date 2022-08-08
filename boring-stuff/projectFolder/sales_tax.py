@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 14/7/2022 This program has sale_tax.py 
+14/7/2022 This program has sale_tax.py 
 that calculate the tax of sales
 """
 

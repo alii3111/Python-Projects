@@ -1,4 +1,4 @@
-""" Yahya Muhumed 6/13/2019 This counting program allows the user to determine
+"""  6/13/2019 This counting program allows the user to determine
 a start and stop number for our range function. It displays each number
 counted, adds each digit to the next & displays the results """
 

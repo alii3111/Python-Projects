@@ -1,4 +1,4 @@
-""" Yahya Muhumed 14/7/2022 this program figures volume of a rectangular
+""" 14/7/2022 this program figures volume of a rectangular
  solid, but more importantly, it provides a model of functions
  talking to each other, int validation, exception handling and restart """
 

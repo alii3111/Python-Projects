@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 14/7/2022 This program has a coffee_sales.py file that takes 
+14/7/2022 This program has a coffee_sales.py file that takes 
 asks users to input the cups of drink sold and the price of that drink calculates
 and give the total
 

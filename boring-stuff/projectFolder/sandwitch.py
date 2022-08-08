@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 22/7/2022 This program asks the user on several
+ 22/7/2022 This program asks the user on several
 inputs and validates them using pyinputplus module
 
 """

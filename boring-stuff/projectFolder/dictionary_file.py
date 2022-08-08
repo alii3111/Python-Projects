@@ -1,4 +1,4 @@
-""" Yahya M 25/7/2022 This program has dictionary_file.py 
+""" 25/7/2022 This program has dictionary_file.py 
   it uses a file format that enables a user to read and append files
 
 """

@@ -1,5 +1,5 @@
 """
-Yahya Muhumed 14/7/2022 This program has Math.py file 
+14/7/2022 This program has Math.py file 
 that uses math function to evaluate some numbers using math functions
 """
 
